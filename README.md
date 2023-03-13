@@ -10,11 +10,6 @@
 # 📊 GitHub Stats:
 ![Codewars](https://github.r2v.ch/codewars?user=PetitOni&stroke=red)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreOttmann&theme=tokyonight&hide_border=false)<br/>
-username=AlexandreOttmann&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 [![](https://visitcount.itsvg.in/api?id=AlexandreOttmann&icon=0&color=6)](https://visitcount.itsvg.in)
