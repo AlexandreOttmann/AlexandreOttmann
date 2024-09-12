@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at O'Clock School<br>👯 I’m looking to collaborate on any project to make a great portfolio <br>🤝 I’m looking for help with finding new opportunities, in learning and jobs !<br>🌱 I’m currently learning front and backend, mainly JS/React and Node.JS<br>💬 Ask me how I retrained, how I choose a new path !<br>⚡ I was or still am a sound engineer/designer :) 
+🔭 I’m currently working at QuantedSquare as Nuxt2 & 3 fullstack web dev<br>👯 Just finished a one year apprenticeship<br>🤝I’m looking for help with finding new opportunities, in learning and jobs !<br>🌱 I’m comfortable vue Next, Nuxt, Graphql, Docker & Typescript<br>💬 Ask me how I retrained, how I choose a new path !<br>⚡ I was or still am a sound engineer/designer :) 
 
 
 ## 🌐 Socials:
