@@ -1,6 +1,7 @@
 # 💫 About Me:
-👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Guru 💼 | 🌐 Remote or Paris, France 🇫🇷
-[→My Portfolio](https://alexottmann.com)
+👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Analyst 💼 | 🌐 Remote or Paris, France 🇫🇷
+
+⭐️[→My Portfolio](https://alexottmann.com)⭐️
 
 🚀 Crafted robust web applications like Odysway & Crown | 💻 Expertise in Nuxt4, Vuetify, Supabase | 📈 Enhanced user experience and performance
  
