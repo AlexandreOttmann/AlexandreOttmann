@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working at QuantedSquare as Nuxt2 & 3 fullstack web dev<br>👯 Just finished a one year apprenticeship<br>🤝I’m looking for help with finding new opportunities, in learning and jobs !<br>🌱 I’m comfortable with Vue, Next, Nuxt, Graphql, Docker & Typescript<br>💬 Ask me how I retrained, how I choose a new path !<br>⚡ I was or still am a sound engineer/designer :) 
+👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Guru 💼 | 🌐 Remote or Paris, France 🇫🇷
+My Portfolio: https://alexottmann.com
+
+🚀 Crafted robust web applications like Odysway & Crown | 💻 Expertise in Nuxt4, Vuetify, Supabase | 📈 Enhanced user experience and performance
+ 
+🏢 Collaborated with startups & investors for actionable tech due diligence | 🧠 Continuous learner embracing new technologies
+
+🤺 Seeking new challenges to contribute to impactful projects | 💬 Let's discuss collaborations and projects | 🌐 GitHub Profile: https://github.com/AlexandreOttmann
+
+👨‍💻 Fullstack Web Developer experienced in Vue.js, React, Node.js | 🐘 PostgreSQL DBA | 💡 DevOps Enthusiast | 🛠️ Clean Code Advocate
+
+⛩️ Committed to building clean architecture and quality code | 🌟 Positive, motivated team player | 🔄 Always eager to learn and adapt 
+
+🤝 Let's create together!👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Guru 💼 | 🌐 Remote or Paris, France 🇫🇷 My Portfolio: https://alexottmann.com 🚀 Crafted robust web applications like Odysway & Crown | 💻 Expertise in Nuxt4, Vuetify, Supabase | 📈 Enhanced user experience and performance 🏢 Collaborated with startups & investors for actionable tech due diligence | 🧠 Continuous learner embracing new technologies 🤺 Seeking new challenges to contribute to impactful projects | 💬 Let's discuss collaborations and projects | 🌐 GitHub Profile: https://github.com/AlexandreOttmann 👨‍💻 Fullstack Web Developer experienced in Vue.js, React, Node.js | 🐘 PostgreSQL DBA | 💡 DevOps Enthusiast | 🛠️ Clean Code Advocate ⛩️ Committed to building clean architecture and quality code | 🌟 Positive, motivated team player | 🔄 Always eager to learn and adapt 🤝 Let's create together!
+
 
 
 ## 🌐 Socials:
