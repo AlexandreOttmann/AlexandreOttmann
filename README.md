@@ -1,19 +1,18 @@
 # 💫 About Me:
 👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Guru 💼 | 🌐 Remote or Paris, France 🇫🇷
-My Portfolio: https://alexottmann.com
+[→My Portfolio](https://alexottmann.com)
 
 🚀 Crafted robust web applications like Odysway & Crown | 💻 Expertise in Nuxt4, Vuetify, Supabase | 📈 Enhanced user experience and performance
  
 🏢 Collaborated with startups & investors for actionable tech due diligence | 🧠 Continuous learner embracing new technologies
 
-🤺 Seeking new challenges to contribute to impactful projects | 💬 Let's discuss collaborations and projects | 🌐 GitHub Profile: https://github.com/AlexandreOttmann
+🤺 Seeking new challenges to contribute to impactful projects | 💬 Let's discuss collaborations and projects | 
 
 👨‍💻 Fullstack Web Developer experienced in Vue.js, React, Node.js | 🐘 PostgreSQL DBA | 💡 DevOps Enthusiast | 🛠️ Clean Code Advocate
 
 ⛩️ Committed to building clean architecture and quality code | 🌟 Positive, motivated team player | 🔄 Always eager to learn and adapt 
 
-🤝 Let's create together!👹 Passionate Fullstack Web Developer and Technical Consultant 🛡️ | 🐘 Node.js, React, Nuxt.js Specialist | Tech Due Diligence Guru 💼 | 🌐 Remote or Paris, France 🇫🇷 My Portfolio: https://alexottmann.com 🚀 Crafted robust web applications like Odysway & Crown | 💻 Expertise in Nuxt4, Vuetify, Supabase | 📈 Enhanced user experience and performance 🏢 Collaborated with startups & investors for actionable tech due diligence | 🧠 Continuous learner embracing new technologies 🤺 Seeking new challenges to contribute to impactful projects | 💬 Let's discuss collaborations and projects | 🌐 GitHub Profile: https://github.com/AlexandreOttmann 👨‍💻 Fullstack Web Developer experienced in Vue.js, React, Node.js | 🐘 PostgreSQL DBA | 💡 DevOps Enthusiast | 🛠️ Clean Code Advocate ⛩️ Committed to building clean architecture and quality code | 🌟 Positive, motivated team player | 🔄 Always eager to learn and adapt 🤝 Let's create together!
-
+🤝 Let's create together!
 
 
 ## 🌐 Socials:
